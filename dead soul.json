@@ -1,0 +1,3130 @@
+[
+    {
+        "page": 2,
+        "line": 22,
+        "start_char": 42,
+        "end_char": 49,
+        "removed_text": "конурке",
+        "type": "word"
+    },
+    {
+        "page": 2,
+        "line": 32,
+        "start_char": 24,
+        "end_char": 26,
+        "removed_text": "же",
+        "type": "word"
+    },
+    {
+        "page": 2,
+        "line": 38,
+        "start_char": 30,
+        "end_char": 48,
+        "removed_text": "с такими огромными",
+        "type": "multiple_words"
+    },
+    {
+        "page": 4,
+        "line": 4,
+        "start_char": 65,
+        "end_char": 67,
+        "removed_text": "На",
+        "type": "word"
+    },
+    {
+        "page": 4,
+        "line": 35,
+        "start_char": 25,
+        "end_char": 32,
+        "removed_text": "знойный",
+        "type": "word"
+    },
+    {
+        "page": 5,
+        "line": 1,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "губернатору, он отправился взглянуть на реку, протекавшую посредине",
+        "type": "sentence"
+    },
+    {
+        "page": 7,
+        "line": 8,
+        "start_char": 36,
+        "end_char": 52,
+        "removed_text": "Приезжий гость и",
+        "type": "multiple_words"
+    },
+    {
+        "page": 8,
+        "line": 15,
+        "start_char": 59,
+        "end_char": 62,
+        "removed_text": "Тут",
+        "type": "word"
+    },
+    {
+        "page": 8,
+        "line": 28,
+        "start_char": 10,
+        "end_char": 12,
+        "removed_text": "ее",
+        "type": "word"
+    },
+    {
+        "page": 9,
+        "line": 17,
+        "start_char": 8,
+        "end_char": 11,
+        "removed_text": "где",
+        "type": "word"
+    },
+    {
+        "page": 10,
+        "line": 1,
+        "start_char": 0,
+        "end_char": 63,
+        "removed_text": "судейские проделки; было ли рассуждение о бильярдной игре – и в",
+        "type": "sentence"
+    },
+    {
+        "page": 10,
+        "line": 5,
+        "start_char": 0,
+        "end_char": 13,
+        "removed_text": "надсмотрщиках",
+        "type": "word"
+    },
+    {
+        "page": 11,
+        "line": 9,
+        "start_char": 37,
+        "end_char": 50,
+        "removed_text": "имеющую после",
+        "type": "multiple_words"
+    },
+    {
+        "page": 11,
+        "line": 22,
+        "start_char": 18,
+        "end_char": 25,
+        "removed_text": "широком",
+        "type": "word"
+    },
+    {
+        "page": 12,
+        "line": 36,
+        "start_char": 60,
+        "end_char": 63,
+        "removed_text": "поп",
+        "type": "word"
+    },
+    {
+        "page": 12,
+        "line": 39,
+        "start_char": 0,
+        "end_char": 3,
+        "removed_text": "них",
+        "type": "word"
+    },
+    {
+        "page": 13,
+        "line": 35,
+        "start_char": 47,
+        "end_char": 48,
+        "removed_text": "к",
+        "type": "word"
+    },
+    {
+        "page": 14,
+        "line": 23,
+        "start_char": 0,
+        "end_char": 68,
+        "removed_text": "что голова продолблена была до самого мозгу носами других петухов по",
+        "type": "sentence"
+    },
+    {
+        "page": 14,
+        "line": 38,
+        "start_char": 25,
+        "end_char": 52,
+        "removed_text": "характеры большого размера:",
+        "type": "multiple_words"
+    },
+    {
+        "page": 15,
+        "line": 25,
+        "start_char": 14,
+        "end_char": 18,
+        "removed_text": "лихо",
+        "type": "word"
+    },
+    {
+        "page": 15,
+        "line": 32,
+        "start_char": 44,
+        "end_char": 67,
+        "removed_text": "смотрителя или ямщиков,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 17,
+        "line": 4,
+        "start_char": 37,
+        "end_char": 40,
+        "removed_text": "вся",
+        "type": "word"
+    },
+    {
+        "page": 17,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 33,
+        "removed_text": "– Ну да уж извольте проходить вы.",
+        "type": "sentence"
+    },
+    {
+        "page": 21,
+        "line": 30,
+        "start_char": 13,
+        "end_char": 16,
+        "removed_text": "его",
+        "type": "word"
+    },
+    {
+        "page": 21,
+        "line": 39,
+        "start_char": 24,
+        "end_char": 30,
+        "removed_text": "книжка",
+        "type": "word"
+    },
+    {
+        "page": 22,
+        "line": 19,
+        "start_char": 34,
+        "end_char": 54,
+        "removed_text": "это предубеждение. Я",
+        "type": "multiple_words"
+    },
+    {
+        "page": 22,
+        "line": 27,
+        "start_char": 15,
+        "end_char": 21,
+        "removed_text": "прежде",
+        "type": "word"
+    },
+    {
+        "page": 22,
+        "line": 32,
+        "start_char": 0,
+        "end_char": 44,
+        "removed_text": "– Да уж давно; а лучше сказать, не припомню.",
+        "type": "sentence"
+    },
+    {
+        "page": 26,
+        "line": 16,
+        "start_char": 0,
+        "end_char": 19,
+        "removed_text": "выкатившуюся слезу.",
+        "type": "sentence"
+    },
+    {
+        "page": 26,
+        "line": 32,
+        "start_char": 68,
+        "end_char": 69,
+        "removed_text": "с",
+        "type": "word"
+    },
+    {
+        "page": 27,
+        "line": 19,
+        "start_char": 62,
+        "end_char": 67,
+        "removed_text": "давая",
+        "type": "word"
+    },
+    {
+        "page": 28,
+        "line": 1,
+        "start_char": 52,
+        "end_char": 57,
+        "removed_text": "можно",
+        "type": "word"
+    },
+    {
+        "page": 29,
+        "line": 12,
+        "start_char": 16,
+        "end_char": 19,
+        "removed_text": "как",
+        "type": "word"
+    },
+    {
+        "page": 30,
+        "line": 39,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "стороны",
+        "type": "word"
+    },
+    {
+        "page": 31,
+        "line": 37,
+        "start_char": 9,
+        "end_char": 20,
+        "removed_text": "рассуждение",
+        "type": "word"
+    },
+    {
+        "page": 31,
+        "line": 38,
+        "start_char": 45,
+        "end_char": 53,
+        "removed_text": "решилась",
+        "type": "word"
+    },
+    {
+        "page": 32,
+        "line": 5,
+        "start_char": 20,
+        "end_char": 40,
+        "removed_text": "когда решительно уже",
+        "type": "multiple_words"
+    },
+    {
+        "page": 33,
+        "line": 26,
+        "start_char": 42,
+        "end_char": 44,
+        "removed_text": "во",
+        "type": "word"
+    },
+    {
+        "page": 37,
+        "line": 6,
+        "start_char": 16,
+        "end_char": 29,
+        "removed_text": "поподличает в",
+        "type": "multiple_words"
+    },
+    {
+        "page": 37,
+        "line": 30,
+        "start_char": 22,
+        "end_char": 27,
+        "removed_text": "такие",
+        "type": "word"
+    },
+    {
+        "page": 37,
+        "line": 36,
+        "start_char": 7,
+        "end_char": 22,
+        "removed_text": "фамилию вашу. Я",
+        "type": "multiple_words"
+    },
+    {
+        "page": 38,
+        "line": 7,
+        "start_char": 0,
+        "end_char": 60,
+        "removed_text": "так дешево, а вот ты бы, отец мой, у меня, верно, его купил.",
+        "type": "sentence"
+    },
+    {
+        "page": 39,
+        "line": 32,
+        "start_char": 43,
+        "end_char": 53,
+        "removed_text": "как-нибудь",
+        "type": "word"
+    },
+    {
+        "page": 40,
+        "line": 23,
+        "start_char": 0,
+        "end_char": 2,
+        "removed_text": "их",
+        "type": "word"
+    },
+    {
+        "page": 40,
+        "line": 26,
+        "start_char": 9,
+        "end_char": 17,
+        "removed_text": "за труд,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 41,
+        "line": 4,
+        "start_char": 0,
+        "end_char": 37,
+        "removed_text": "– Куда ж еще вы их хотели пристроить?",
+        "type": "sentence"
+    },
+    {
+        "page": 41,
+        "line": 20,
+        "start_char": 43,
+        "end_char": 52,
+        "removed_text": "а рога-то",
+        "type": "multiple_words"
+    },
+    {
+        "page": 41,
+        "line": 30,
+        "start_char": 12,
+        "end_char": 15,
+        "removed_text": "без",
+        "type": "word"
+    },
+    {
+        "page": 43,
+        "line": 1,
+        "start_char": 0,
+        "end_char": 8,
+        "removed_text": "в Москве",
+        "type": "multiple_words"
+    },
+    {
+        "page": 45,
+        "line": 21,
+        "start_char": 22,
+        "end_char": 31,
+        "removed_text": "ступеньку",
+        "type": "word"
+    },
+    {
+        "page": 46,
+        "line": 5,
+        "start_char": 40,
+        "end_char": 42,
+        "removed_text": "ей",
+        "type": "word"
+    },
+    {
+        "page": 47,
+        "line": 30,
+        "start_char": 0,
+        "end_char": 3,
+        "removed_text": "его",
+        "type": "word"
+    },
+    {
+        "page": 48,
+        "line": 38,
+        "start_char": 17,
+        "end_char": 25,
+        "removed_text": "какой-то",
+        "type": "word"
+    },
+    {
+        "page": 49,
+        "line": 15,
+        "start_char": 33,
+        "end_char": 36,
+        "removed_text": "Это",
+        "type": "word"
+    },
+    {
+        "page": 49,
+        "line": 28,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "нарочно",
+        "type": "word"
+    },
+    {
+        "page": 51,
+        "line": 1,
+        "start_char": 0,
+        "end_char": 2,
+        "removed_text": "не",
+        "type": "word"
+    },
+    {
+        "page": 51,
+        "line": 24,
+        "start_char": 8,
+        "end_char": 11,
+        "removed_text": "баб",
+        "type": "word"
+    },
+    {
+        "page": 52,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 8,
+        "removed_text": "ужасный.",
+        "type": "sentence"
+    },
+    {
+        "page": 53,
+        "line": 1,
+        "start_char": 24,
+        "end_char": 26,
+        "removed_text": "на",
+        "type": "word"
+    },
+    {
+        "page": 53,
+        "line": 5,
+        "start_char": 0,
+        "end_char": 6,
+        "removed_text": "рукою.",
+        "type": "sentence"
+    },
+    {
+        "page": 54,
+        "line": 16,
+        "start_char": 22,
+        "end_char": 23,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 55,
+        "line": 3,
+        "start_char": 59,
+        "end_char": 63,
+        "removed_text": "жена",
+        "type": "word"
+    },
+    {
+        "page": 55,
+        "line": 33,
+        "start_char": 30,
+        "end_char": 36,
+        "removed_text": "иногда",
+        "type": "word"
+    },
+    {
+        "page": 56,
+        "line": 12,
+        "start_char": 31,
+        "end_char": 42,
+        "removed_text": "неугомонной",
+        "type": "word"
+    },
+    {
+        "page": 56,
+        "line": 27,
+        "start_char": 0,
+        "end_char": 39,
+        "removed_text": "Ноздрев долго еще не выведется из мира.",
+        "type": "sentence"
+    },
+    {
+        "page": 57,
+        "line": 17,
+        "start_char": 27,
+        "end_char": 35,
+        "removed_text": "смотреть",
+        "type": "word"
+    },
+    {
+        "page": 58,
+        "line": 18,
+        "start_char": 0,
+        "end_char": 17,
+        "removed_text": "место было низко.",
+        "type": "sentence"
+    },
+    {
+        "page": 61,
+        "line": 25,
+        "start_char": 2,
+        "end_char": 7,
+        "removed_text": "Да на",
+        "type": "multiple_words"
+    },
+    {
+        "page": 62,
+        "line": 7,
+        "start_char": 35,
+        "end_char": 36,
+        "removed_text": "Я",
+        "type": "word"
+    },
+    {
+        "page": 64,
+        "line": 16,
+        "start_char": 59,
+        "end_char": 60,
+        "removed_text": "Я",
+        "type": "word"
+    },
+    {
+        "page": 64,
+        "line": 20,
+        "start_char": 54,
+        "end_char": 61,
+        "removed_text": "и самый",
+        "type": "multiple_words"
+    },
+    {
+        "page": 65,
+        "line": 23,
+        "start_char": 40,
+        "end_char": 43,
+        "removed_text": "еще",
+        "type": "word"
+    },
+    {
+        "page": 66,
+        "line": 33,
+        "start_char": 30,
+        "end_char": 38,
+        "removed_text": "мне дашь",
+        "type": "multiple_words"
+    },
+    {
+        "page": 67,
+        "line": 25,
+        "start_char": 11,
+        "end_char": 13,
+        "removed_text": "по",
+        "type": "word"
+    },
+    {
+        "page": 68,
+        "line": 16,
+        "start_char": 12,
+        "end_char": 18,
+        "removed_text": "хочешь",
+        "type": "word"
+    },
+    {
+        "page": 69,
+        "line": 21,
+        "start_char": 42,
+        "end_char": 60,
+        "removed_text": "уходящих за облака",
+        "type": "multiple_words"
+    },
+    {
+        "page": 69,
+        "line": 39,
+        "start_char": 0,
+        "end_char": 36,
+        "removed_text": "каком когда-либо находился смертный.",
+        "type": "sentence"
+    },
+    {
+        "page": 71,
+        "line": 5,
+        "start_char": 51,
+        "end_char": 63,
+        "removed_text": "переводилось",
+        "type": "word"
+    },
+    {
+        "page": 72,
+        "line": 9,
+        "start_char": 45,
+        "end_char": 59,
+        "removed_text": "как свеженькое",
+        "type": "multiple_words"
+    },
+    {
+        "page": 72,
+        "line": 22,
+        "start_char": 50,
+        "end_char": 58,
+        "removed_text": "морду на",
+        "type": "multiple_words"
+    },
+    {
+        "page": 73,
+        "line": 2,
+        "start_char": 24,
+        "end_char": 28,
+        "removed_text": "дядя",
+        "type": "word"
+    },
+    {
+        "page": 74,
+        "line": 17,
+        "start_char": 0,
+        "end_char": 72,
+        "removed_text": "нужно говорить, как на кого смотреть, всякую минуту будет бояться, чтобы",
+        "type": "sentence"
+    },
+    {
+        "page": 74,
+        "line": 29,
+        "start_char": 0,
+        "end_char": 12,
+        "removed_text": "проезжающие.",
+        "type": "sentence"
+    },
+    {
+        "page": 74,
+        "line": 32,
+        "start_char": 8,
+        "end_char": 31,
+        "removed_text": "показалась ему довольно",
+        "type": "multiple_words"
+    },
+    {
+        "page": 75,
+        "line": 2,
+        "start_char": 0,
+        "end_char": 69,
+        "removed_text": "Фронтон тоже никак не пришелся посреди дома, как ни бился архитектор,",
+        "type": "sentence"
+    },
+    {
+        "page": 75,
+        "line": 18,
+        "start_char": 0,
+        "end_char": 58,
+        "removed_text": "щеголя, и подмигивающего и посвистывающего на белогрудых и",
+        "type": "sentence"
+    },
+    {
+        "page": 75,
+        "line": 20,
+        "start_char": 48,
+        "end_char": 50,
+        "removed_text": "На",
+        "type": "word"
+    },
+    {
+        "page": 76,
+        "line": 23,
+        "start_char": 35,
+        "end_char": 41,
+        "removed_text": "голову",
+        "type": "word"
+    },
+    {
+        "page": 78,
+        "line": 4,
+        "start_char": 45,
+        "end_char": 46,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 78,
+        "line": 31,
+        "start_char": 27,
+        "end_char": 34,
+        "removed_text": "недурен",
+        "type": "word"
+    },
+    {
+        "page": 79,
+        "line": 11,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "барских",
+        "type": "word"
+    },
+    {
+        "page": 81,
+        "line": 9,
+        "start_char": 18,
+        "end_char": 30,
+        "removed_text": "бессмертного",
+        "type": "word"
+    },
+    {
+        "page": 82,
+        "line": 13,
+        "start_char": 9,
+        "end_char": 11,
+        "removed_text": "по",
+        "type": "word"
+    },
+    {
+        "page": 83,
+        "line": 23,
+        "start_char": 51,
+        "end_char": 53,
+        "removed_text": "по",
+        "type": "word"
+    },
+    {
+        "page": 84,
+        "line": 6,
+        "start_char": 0,
+        "end_char": 65,
+        "removed_text": "– Ну, извольте, и я вам скажу тоже мое последнее слово: пятьдесят",
+        "type": "sentence"
+    },
+    {
+        "page": 85,
+        "line": 6,
+        "start_char": 6,
+        "end_char": 7,
+        "removed_text": "с",
+        "type": "word"
+    },
+    {
+        "page": 85,
+        "line": 15,
+        "start_char": 0,
+        "end_char": 21,
+        "removed_text": "Так совершилось дело.",
+        "type": "sentence"
+    },
+    {
+        "page": 87,
+        "line": 1,
+        "start_char": 2,
+        "end_char": 3,
+        "removed_text": "Я",
+        "type": "word"
+    },
+    {
+        "page": 87,
+        "line": 11,
+        "start_char": 45,
+        "end_char": 53,
+        "removed_text": "случится",
+        "type": "word"
+    },
+    {
+        "page": 88,
+        "line": 20,
+        "start_char": 0,
+        "end_char": 63,
+        "removed_text": "способностей души, своей яркой особенности и других даров бога,",
+        "type": "sentence"
+    },
+    {
+        "page": 89,
+        "line": 17,
+        "start_char": 21,
+        "end_char": 27,
+        "removed_text": "вместе",
+        "type": "word"
+    },
+    {
+        "page": 89,
+        "line": 31,
+        "start_char": 6,
+        "end_char": 17,
+        "removed_text": "помещичьего",
+        "type": "word"
+    },
+    {
+        "page": 91,
+        "line": 14,
+        "start_char": 20,
+        "end_char": 22,
+        "removed_text": "на",
+        "type": "word"
+    },
+    {
+        "page": 92,
+        "line": 14,
+        "start_char": 0,
+        "end_char": 5,
+        "removed_text": "живых",
+        "type": "word"
+    },
+    {
+        "page": 92,
+        "line": 18,
+        "start_char": 30,
+        "end_char": 32,
+        "removed_text": "из",
+        "type": "word"
+    },
+    {
+        "page": 92,
+        "line": 26,
+        "start_char": 57,
+        "end_char": 60,
+        "removed_text": "был",
+        "type": "word"
+    },
+    {
+        "page": 93,
+        "line": 1,
+        "start_char": 37,
+        "end_char": 44,
+        "removed_text": "наконец",
+        "type": "word"
+    },
+    {
+        "page": 93,
+        "line": 9,
+        "start_char": 20,
+        "end_char": 31,
+        "removed_text": "наполненные",
+        "type": "word"
+    },
+    {
+        "page": 93,
+        "line": 33,
+        "start_char": 35,
+        "end_char": 43,
+        "removed_text": "возвещал",
+        "type": "word"
+    },
+    {
+        "page": 93,
+        "line": 37,
+        "start_char": 57,
+        "end_char": 59,
+        "removed_text": "не",
+        "type": "word"
+    },
+    {
+        "page": 95,
+        "line": 34,
+        "start_char": 42,
+        "end_char": 43,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 96,
+        "line": 6,
+        "start_char": 61,
+        "end_char": 63,
+        "removed_text": "но",
+        "type": "word"
+    },
+    {
+        "page": 96,
+        "line": 28,
+        "start_char": 4,
+        "end_char": 9,
+        "removed_text": "более",
+        "type": "word"
+    },
+    {
+        "page": 97,
+        "line": 19,
+        "start_char": 9,
+        "end_char": 18,
+        "removed_text": "на столе,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 98,
+        "line": 25,
+        "start_char": 0,
+        "end_char": 18,
+        "removed_text": "несколько внятнее:",
+        "type": "multiple_words"
+    },
+    {
+        "page": 102,
+        "line": 26,
+        "start_char": 36,
+        "end_char": 37,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 102,
+        "line": 36,
+        "start_char": 24,
+        "end_char": 47,
+        "removed_text": "или утомленные бореньем",
+        "type": "multiple_words"
+    },
+    {
+        "page": 103,
+        "line": 4,
+        "start_char": 18,
+        "end_char": 27,
+        "removed_text": "стол и на",
+        "type": "multiple_words"
+    },
+    {
+        "page": 105,
+        "line": 33,
+        "start_char": 22,
+        "end_char": 26,
+        "removed_text": "да и",
+        "type": "multiple_words"
+    },
+    {
+        "page": 105,
+        "line": 35,
+        "start_char": 0,
+        "end_char": 69,
+        "removed_text": "положит на то же место, или нет, подай его сюда, я ужо снесу его сам.",
+        "type": "sentence"
+    },
+    {
+        "page": 107,
+        "line": 32,
+        "start_char": 3,
+        "end_char": 10,
+        "removed_text": "слишком",
+        "type": "word"
+    },
+    {
+        "page": 108,
+        "line": 10,
+        "start_char": 21,
+        "end_char": 25,
+        "removed_text": "кого",
+        "type": "word"
+    },
+    {
+        "page": 110,
+        "line": 14,
+        "start_char": 8,
+        "end_char": 11,
+        "removed_text": "как",
+        "type": "word"
+    },
+    {
+        "page": 112,
+        "line": 7,
+        "start_char": 11,
+        "end_char": 58,
+        "removed_text": "„Отпущен на оброк“, – отвечаешь ты без запинки.",
+        "type": "sentence"
+    },
+    {
+        "page": 112,
+        "line": 30,
+        "start_char": 21,
+        "end_char": 37,
+        "removed_text": "тюрьму такого-то",
+        "type": "multiple_words"
+    },
+    {
+        "page": 113,
+        "line": 17,
+        "start_char": 0,
+        "end_char": 13,
+        "removed_text": "в самом деле!",
+        "type": "sentence"
+    },
+    {
+        "page": 113,
+        "line": 24,
+        "start_char": 0,
+        "end_char": 65,
+        "removed_text": "когда нужно было прекратить брань любезных ему героев или дать им",
+        "type": "sentence"
+    },
+    {
+        "page": 114,
+        "line": 20,
+        "start_char": 40,
+        "end_char": 49,
+        "removed_text": "Ивановича",
+        "type": "word"
+    },
+    {
+        "page": 117,
+        "line": 13,
+        "start_char": 13,
+        "end_char": 21,
+        "removed_text": "проведет",
+        "type": "word"
+    },
+    {
+        "page": 117,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 25,
+        "removed_text": "отнесено к сидячей жизни.",
+        "type": "sentence"
+    },
+    {
+        "page": 118,
+        "line": 15,
+        "start_char": 48,
+        "end_char": 57,
+        "removed_text": "Собакевич",
+        "type": "word"
+    },
+    {
+        "page": 119,
+        "line": 17,
+        "start_char": 23,
+        "end_char": 29,
+        "removed_text": "никому",
+        "type": "word"
+    },
+    {
+        "page": 119,
+        "line": 19,
+        "start_char": 43,
+        "end_char": 45,
+        "removed_text": "не",
+        "type": "word"
+    },
+    {
+        "page": 119,
+        "line": 31,
+        "start_char": 51,
+        "end_char": 59,
+        "removed_text": "выбранил",
+        "type": "word"
+    },
+    {
+        "page": 119,
+        "line": 37,
+        "start_char": 21,
+        "end_char": 36,
+        "removed_text": "от удовольствия",
+        "type": "multiple_words"
+    },
+    {
+        "page": 120,
+        "line": 18,
+        "start_char": 20,
+        "end_char": 30,
+        "removed_text": "для дому и",
+        "type": "multiple_words"
+    },
+    {
+        "page": 120,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 16,
+        "removed_text": "– Река или пруд?",
+        "type": "sentence"
+    },
+    {
+        "page": 121,
+        "line": 1,
+        "start_char": 23,
+        "end_char": 30,
+        "removed_text": "набраны",
+        "type": "word"
+    },
+    {
+        "page": 122,
+        "line": 14,
+        "start_char": 15,
+        "end_char": 18,
+        "removed_text": "был",
+        "type": "word"
+    },
+    {
+        "page": 122,
+        "line": 35,
+        "start_char": 11,
+        "end_char": 17,
+        "removed_text": "снявши",
+        "type": "word"
+    },
+    {
+        "page": 123,
+        "line": 19,
+        "start_char": 46,
+        "end_char": 51,
+        "removed_text": "более",
+        "type": "word"
+    },
+    {
+        "page": 123,
+        "line": 27,
+        "start_char": 47,
+        "end_char": 54,
+        "removed_text": "выходит",
+        "type": "word"
+    },
+    {
+        "page": 124,
+        "line": 6,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "пальцами, пошел приплясывать вокруг него, припевая известную песню:",
+        "type": "sentence"
+    },
+    {
+        "page": 127,
+        "line": 6,
+        "start_char": 65,
+        "end_char": 68,
+        "removed_text": "его",
+        "type": "word"
+    },
+    {
+        "page": 127,
+        "line": 22,
+        "start_char": 57,
+        "end_char": 67,
+        "removed_text": "некоторого",
+        "type": "word"
+    },
+    {
+        "page": 127,
+        "line": 25,
+        "start_char": 0,
+        "end_char": 9,
+        "removed_text": "взаимного",
+        "type": "word"
+    },
+    {
+        "page": 128,
+        "line": 20,
+        "start_char": 13,
+        "end_char": 17,
+        "removed_text": "речь",
+        "type": "word"
+    },
+    {
+        "page": 129,
+        "line": 2,
+        "start_char": 9,
+        "end_char": 34,
+        "removed_text": "сколько-нибудь изъяснить,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 129,
+        "line": 8,
+        "start_char": 23,
+        "end_char": 35,
+        "removed_text": "замечательно",
+        "type": "word"
+    },
+    {
+        "page": 130,
+        "line": 11,
+        "start_char": 60,
+        "end_char": 66,
+        "removed_text": "другое",
+        "type": "word"
+    },
+    {
+        "page": 130,
+        "line": 33,
+        "start_char": 8,
+        "end_char": 19,
+        "removed_text": "уж это было",
+        "type": "multiple_words"
+    },
+    {
+        "page": 130,
+        "line": 34,
+        "start_char": 17,
+        "end_char": 43,
+        "removed_text": "насчет тоненького мужчины:",
+        "type": "multiple_words"
+    },
+    {
+        "page": 131,
+        "line": 13,
+        "start_char": 21,
+        "end_char": 23,
+        "removed_text": "по",
+        "type": "word"
+    },
+    {
+        "page": 133,
+        "line": 29,
+        "start_char": 27,
+        "end_char": 33,
+        "removed_text": "подыму",
+        "type": "word"
+    },
+    {
+        "page": 133,
+        "line": 30,
+        "start_char": 23,
+        "end_char": 30,
+        "removed_text": "крепкие",
+        "type": "word"
+    },
+    {
+        "page": 133,
+        "line": 34,
+        "start_char": 61,
+        "end_char": 65,
+        "removed_text": "были",
+        "type": "word"
+    },
+    {
+        "page": 134,
+        "line": 11,
+        "start_char": 26,
+        "end_char": 50,
+        "removed_text": "какой-нибудь не виданный",
+        "type": "multiple_words"
+    },
+    {
+        "page": 134,
+        "line": 28,
+        "start_char": 8,
+        "end_char": 14,
+        "removed_text": "сказал",
+        "type": "word"
+    },
+    {
+        "page": 134,
+        "line": 32,
+        "start_char": 52,
+        "end_char": 53,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 135,
+        "line": 3,
+        "start_char": 11,
+        "end_char": 19,
+        "removed_text": "из улицы",
+        "type": "multiple_words"
+    },
+    {
+        "page": 136,
+        "line": 26,
+        "start_char": 60,
+        "end_char": 62,
+        "removed_text": "бы",
+        "type": "word"
+    },
+    {
+        "page": 140,
+        "line": 1,
+        "start_char": 22,
+        "end_char": 28,
+        "removed_text": "вместе",
+        "type": "word"
+    },
+    {
+        "page": 141,
+        "line": 39,
+        "start_char": 46,
+        "end_char": 63,
+        "removed_text": "лгун отъявленный,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 143,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "которых",
+        "type": "word"
+    },
+    {
+        "page": 143,
+        "line": 14,
+        "start_char": 44,
+        "end_char": 48,
+        "removed_text": "черт",
+        "type": "word"
+    },
+    {
+        "page": 144,
+        "line": 25,
+        "start_char": 56,
+        "end_char": 69,
+        "removed_text": "Ноздрева была",
+        "type": "multiple_words"
+    },
+    {
+        "page": 145,
+        "line": 37,
+        "start_char": 36,
+        "end_char": 39,
+        "removed_text": "сей",
+        "type": "word"
+    },
+    {
+        "page": 146,
+        "line": 6,
+        "start_char": 0,
+        "end_char": 18,
+        "removed_text": "галуном на круглой",
+        "type": "multiple_words"
+    },
+    {
+        "page": 146,
+        "line": 9,
+        "start_char": 33,
+        "end_char": 38,
+        "removed_text": "сзади",
+        "type": "word"
+    },
+    {
+        "page": 146,
+        "line": 15,
+        "start_char": 0,
+        "end_char": 69,
+        "removed_text": "что она наконец не вытерпела не сказать: «Проклятое строение, и конца",
+        "type": "sentence"
+    },
+    {
+        "page": 147,
+        "line": 17,
+        "start_char": 0,
+        "end_char": 34,
+        "removed_text": "называть ее: просто приятная дама.",
+        "type": "sentence"
+    },
+    {
+        "page": 149,
+        "line": 6,
+        "start_char": 31,
+        "end_char": 51,
+        "removed_text": "сердечного движенья.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 150,
+        "line": 7,
+        "start_char": 0,
+        "end_char": 58,
+        "removed_text": "– Ах, жизнь моя, Анна Григорьевна, если бы вы могли только",
+        "type": "sentence"
+    },
+    {
+        "page": 151,
+        "line": 19,
+        "start_char": 18,
+        "end_char": 37,
+        "removed_text": "Она даже произнесла",
+        "type": "multiple_words"
+    },
+    {
+        "page": 152,
+        "line": 13,
+        "start_char": 6,
+        "end_char": 8,
+        "removed_text": "не",
+        "type": "word"
+    },
+    {
+        "page": 153,
+        "line": 8,
+        "start_char": 34,
+        "end_char": 37,
+        "removed_text": "что",
+        "type": "word"
+    },
+    {
+        "page": 154,
+        "line": 9,
+        "start_char": 8,
+        "end_char": 12,
+        "removed_text": "хоть",
+        "type": "word"
+    },
+    {
+        "page": 154,
+        "line": 31,
+        "start_char": 44,
+        "end_char": 46,
+        "removed_text": "он",
+        "type": "word"
+    },
+    {
+        "page": 156,
+        "line": 24,
+        "start_char": 41,
+        "end_char": 43,
+        "removed_text": "да",
+        "type": "word"
+    },
+    {
+        "page": 157,
+        "line": 2,
+        "start_char": 30,
+        "end_char": 38,
+        "removed_text": "столицах",
+        "type": "word"
+    },
+    {
+        "page": 157,
+        "line": 4,
+        "start_char": 35,
+        "end_char": 38,
+        "removed_text": "два",
+        "type": "word"
+    },
+    {
+        "page": 157,
+        "line": 16,
+        "start_char": 69,
+        "end_char": 72,
+        "removed_text": "это",
+        "type": "word"
+    },
+    {
+        "page": 157,
+        "line": 34,
+        "start_char": 0,
+        "end_char": 13,
+        "removed_text": "окончательные",
+        "type": "word"
+    },
+    {
+        "page": 158,
+        "line": 22,
+        "start_char": 43,
+        "end_char": 62,
+        "removed_text": "нежели гражданское,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 159,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "после торгов пирушку приятелям своим устьсысольским купцам, пирушку",
+        "type": "sentence"
+    },
+    {
+        "page": 159,
+        "line": 14,
+        "start_char": 56,
+        "end_char": 66,
+        "removed_text": "бальзамами",
+        "type": "word"
+    },
+    {
+        "page": 159,
+        "line": 30,
+        "start_char": 17,
+        "end_char": 38,
+        "removed_text": "заседатель Дробяжкин,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 160,
+        "line": 13,
+        "start_char": 28,
+        "end_char": 33,
+        "removed_text": "душах",
+        "type": "word"
+    },
+    {
+        "page": 161,
+        "line": 8,
+        "start_char": 8,
+        "end_char": 9,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 163,
+        "line": 16,
+        "start_char": 42,
+        "end_char": 50,
+        "removed_text": "тридцать",
+        "type": "word"
+    },
+    {
+        "page": 166,
+        "line": 4,
+        "start_char": 45,
+        "end_char": 49,
+        "removed_text": "было",
+        "type": "word"
+    },
+    {
+        "page": 166,
+        "line": 10,
+        "start_char": 60,
+        "end_char": 63,
+        "removed_text": "там",
+        "type": "word"
+    },
+    {
+        "page": 166,
+        "line": 33,
+        "start_char": 18,
+        "end_char": 30,
+        "removed_text": "вызолоченная",
+        "type": "word"
+    },
+    {
+        "page": 170,
+        "line": 7,
+        "start_char": 0,
+        "end_char": 2,
+        "removed_text": "на",
+        "type": "word"
+    },
+    {
+        "page": 170,
+        "line": 27,
+        "start_char": 2,
+        "end_char": 3,
+        "removed_text": "у",
+        "type": "word"
+    },
+    {
+        "page": 171,
+        "line": 6,
+        "start_char": 50,
+        "end_char": 60,
+        "removed_text": "и обширна,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 171,
+        "line": 17,
+        "start_char": 30,
+        "end_char": 36,
+        "removed_text": "не мог",
+        "type": "multiple_words"
+    },
+    {
+        "page": 171,
+        "line": 21,
+        "start_char": 3,
+        "end_char": 19,
+        "removed_text": "готов бы назвать",
+        "type": "multiple_words"
+    },
+    {
+        "page": 171,
+        "line": 38,
+        "start_char": 59,
+        "end_char": 63,
+        "removed_text": "дело",
+        "type": "word"
+    },
+    {
+        "page": 172,
+        "line": 5,
+        "start_char": 0,
+        "end_char": 6,
+        "removed_text": "каждой",
+        "type": "word"
+    },
+    {
+        "page": 172,
+        "line": 25,
+        "start_char": 45,
+        "end_char": 53,
+        "removed_text": "выдумает",
+        "type": "word"
+    },
+    {
+        "page": 173,
+        "line": 16,
+        "start_char": 24,
+        "end_char": 26,
+        "removed_text": "на",
+        "type": "word"
+    },
+    {
+        "page": 174,
+        "line": 4,
+        "start_char": 20,
+        "end_char": 26,
+        "removed_text": "именам",
+        "type": "word"
+    },
+    {
+        "page": 174,
+        "line": 13,
+        "start_char": 5,
+        "end_char": 17,
+        "removed_text": "что никак не",
+        "type": "multiple_words"
+    },
+    {
+        "page": 174,
+        "line": 15,
+        "start_char": 52,
+        "end_char": 60,
+        "removed_text": "твердыми",
+        "type": "word"
+    },
+    {
+        "page": 174,
+        "line": 19,
+        "start_char": 27,
+        "end_char": 32,
+        "removed_text": "делся",
+        "type": "word"
+    },
+    {
+        "page": 176,
+        "line": 33,
+        "start_char": 34,
+        "end_char": 39,
+        "removed_text": "перед",
+        "type": "word"
+    },
+    {
+        "page": 177,
+        "line": 2,
+        "start_char": 8,
+        "end_char": 9,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 177,
+        "line": 15,
+        "start_char": 36,
+        "end_char": 54,
+        "removed_text": "разливать чай, как",
+        "type": "multiple_words"
+    },
+    {
+        "page": 178,
+        "line": 8,
+        "start_char": 20,
+        "end_char": 21,
+        "removed_text": "я",
+        "type": "word"
+    },
+    {
+        "page": 178,
+        "line": 26,
+        "start_char": 16,
+        "end_char": 24,
+        "removed_text": "в ней не",
+        "type": "multiple_words"
+    },
+    {
+        "page": 178,
+        "line": 27,
+        "start_char": 27,
+        "end_char": 30,
+        "removed_text": "так",
+        "type": "word"
+    },
+    {
+        "page": 179,
+        "line": 18,
+        "start_char": 0,
+        "end_char": 64,
+        "removed_text": "назавтра сходка с своим братом в неприглядном тулупе, опоясанном",
+        "type": "sentence"
+    },
+    {
+        "page": 180,
+        "line": 6,
+        "start_char": 22,
+        "end_char": 28,
+        "removed_text": "вторая",
+        "type": "word"
+    },
+    {
+        "page": 182,
+        "line": 19,
+        "start_char": 36,
+        "end_char": 47,
+        "removed_text": "продолжение",
+        "type": "word"
+    },
+    {
+        "page": 182,
+        "line": 30,
+        "start_char": 37,
+        "end_char": 47,
+        "removed_text": "начал было",
+        "type": "multiple_words"
+    },
+    {
+        "page": 183,
+        "line": 28,
+        "start_char": 11,
+        "end_char": 15,
+        "removed_text": "тебя",
+        "type": "word"
+    },
+    {
+        "page": 183,
+        "line": 35,
+        "start_char": 7,
+        "end_char": 13,
+        "removed_text": "темные",
+        "type": "word"
+    },
+    {
+        "page": 184,
+        "line": 4,
+        "start_char": 11,
+        "end_char": 12,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 184,
+        "line": 9,
+        "start_char": 16,
+        "end_char": 23,
+        "removed_text": "тяжелое",
+        "type": "word"
+    },
+    {
+        "page": 184,
+        "line": 16,
+        "start_char": 0,
+        "end_char": 22,
+        "removed_text": "– Держи, держи, дурак!",
+        "type": "sentence"
+    },
+    {
+        "page": 185,
+        "line": 31,
+        "start_char": 25,
+        "end_char": 39,
+        "removed_text": "избранный нами",
+        "type": "multiple_words"
+    },
+    {
+        "page": 186,
+        "line": 16,
+        "start_char": 0,
+        "end_char": 70,
+        "removed_text": "потому что обратили в лошадь добродетельного человека, и нет писателя,",
+        "type": "sentence"
+    },
+    {
+        "page": 186,
+        "line": 26,
+        "start_char": 40,
+        "end_char": 51,
+        "removed_text": "обыкновенно",
+        "type": "word"
+    },
+    {
+        "page": 188,
+        "line": 31,
+        "start_char": 38,
+        "end_char": 45,
+        "removed_text": "мигнуть",
+        "type": "word"
+    },
+    {
+        "page": 189,
+        "line": 5,
+        "start_char": 33,
+        "end_char": 40,
+        "removed_text": "течение",
+        "type": "word"
+    },
+    {
+        "page": 190,
+        "line": 21,
+        "start_char": 40,
+        "end_char": 46,
+        "removed_text": "рублей",
+        "type": "word"
+    },
+    {
+        "page": 191,
+        "line": 4,
+        "start_char": 45,
+        "end_char": 54,
+        "removed_text": "вечно тот",
+        "type": "multiple_words"
+    },
+    {
+        "page": 191,
+        "line": 19,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "угождать во всяких незаметных мелочах: рассмотрел внимательно чинку",
+        "type": "sentence"
+    },
+    {
+        "page": 191,
+        "line": 21,
+        "start_char": 11,
+        "end_char": 21,
+        "removed_text": "раз их под",
+        "type": "multiple_words"
+    },
+    {
+        "page": 191,
+        "line": 29,
+        "start_char": 3,
+        "end_char": 25,
+        "removed_text": "ночам молотьба гороху.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 192,
+        "line": 28,
+        "start_char": 47,
+        "end_char": 49,
+        "removed_text": "Но",
+        "type": "word"
+    },
+    {
+        "page": 194,
+        "line": 16,
+        "start_char": 10,
+        "end_char": 17,
+        "removed_text": "каждого",
+        "type": "word"
+    },
+    {
+        "page": 194,
+        "line": 19,
+        "start_char": 23,
+        "end_char": 25,
+        "removed_text": "за",
+        "type": "word"
+    },
+    {
+        "page": 194,
+        "line": 31,
+        "start_char": 42,
+        "end_char": 46,
+        "removed_text": "дело",
+        "type": "word"
+    },
+    {
+        "page": 195,
+        "line": 3,
+        "start_char": 52,
+        "end_char": 53,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 195,
+        "line": 6,
+        "start_char": 35,
+        "end_char": 49,
+        "removed_text": "и всякий день:",
+        "type": "multiple_words"
+    },
+    {
+        "page": 195,
+        "line": 17,
+        "start_char": 45,
+        "end_char": 47,
+        "removed_text": "не",
+        "type": "word"
+    },
+    {
+        "page": 195,
+        "line": 27,
+        "start_char": 0,
+        "end_char": 63,
+        "removed_text": "при этом он подумывал еще об особенном сорте французского мыла,",
+        "type": "sentence"
+    },
+    {
+        "page": 196,
+        "line": 17,
+        "start_char": 13,
+        "end_char": 15,
+        "removed_text": "бы",
+        "type": "word"
+    },
+    {
+        "page": 197,
+        "line": 7,
+        "start_char": 26,
+        "end_char": 33,
+        "removed_text": "склонил",
+        "type": "word"
+    },
+    {
+        "page": 197,
+        "line": 23,
+        "start_char": 0,
+        "end_char": 70,
+        "removed_text": "быть, несколько и выпивши, Чичиков назвал другого чиновника поповичем,",
+        "type": "sentence"
+    },
+    {
+        "page": 197,
+        "line": 34,
+        "start_char": 44,
+        "end_char": 58,
+        "removed_text": "были в дураках",
+        "type": "multiple_words"
+    },
+    {
+        "page": 198,
+        "line": 11,
+        "start_char": 0,
+        "end_char": 11,
+        "removed_text": "заграничных",
+        "type": "word"
+    },
+    {
+        "page": 198,
+        "line": 19,
+        "start_char": 44,
+        "end_char": 46,
+        "removed_text": "бы",
+        "type": "word"
+    },
+    {
+        "page": 199,
+        "line": 22,
+        "start_char": 40,
+        "end_char": 51,
+        "removed_text": "пресмыканье",
+        "type": "word"
+    },
+    {
+        "page": 200,
+        "line": 4,
+        "start_char": 15,
+        "end_char": 16,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 200,
+        "line": 9,
+        "start_char": 16,
+        "end_char": 31,
+        "removed_text": "новых ревизских",
+        "type": "multiple_words"
+    },
+    {
+        "page": 201,
+        "line": 20,
+        "start_char": 40,
+        "end_char": 43,
+        "removed_text": "вся",
+        "type": "word"
+    },
+    {
+        "page": 202,
+        "line": 1,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "никаким",
+        "type": "word"
+    },
+    {
+        "page": 203,
+        "line": 30,
+        "start_char": 56,
+        "end_char": 59,
+        "removed_text": "что",
+        "type": "word"
+    },
+    {
+        "page": 205,
+        "line": 10,
+        "start_char": 5,
+        "end_char": 10,
+        "removed_text": "каком",
+        "type": "word"
+    },
+    {
+        "page": 205,
+        "line": 14,
+        "start_char": 24,
+        "end_char": 42,
+        "removed_text": "медленным голосом.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 205,
+        "line": 30,
+        "start_char": 69,
+        "end_char": 73,
+        "removed_text": "душе",
+        "type": "word"
+    },
+    {
+        "page": 206,
+        "line": 4,
+        "start_char": 44,
+        "end_char": 49,
+        "removed_text": "одним",
+        "type": "word"
+    },
+    {
+        "page": 211,
+        "line": 13,
+        "start_char": 9,
+        "end_char": 15,
+        "removed_text": "вместе",
+        "type": "word"
+    },
+    {
+        "page": 211,
+        "line": 20,
+        "start_char": 40,
+        "end_char": 49,
+        "removed_text": "подняться",
+        "type": "word"
+    },
+    {
+        "page": 211,
+        "line": 30,
+        "start_char": 21,
+        "end_char": 27,
+        "removed_text": "Андрея",
+        "type": "word"
+    },
+    {
+        "page": 213,
+        "line": 10,
+        "start_char": 31,
+        "end_char": 39,
+        "removed_text": "но юноша",
+        "type": "multiple_words"
+    },
+    {
+        "page": 213,
+        "line": 30,
+        "start_char": 36,
+        "end_char": 52,
+        "removed_text": "взгляда на вещи.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 214,
+        "line": 26,
+        "start_char": 33,
+        "end_char": 34,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 215,
+        "line": 8,
+        "start_char": 0,
+        "end_char": 72,
+        "removed_text": "что без этого не попадешь ни в министры, ни в государственные советники,",
+        "type": "sentence"
+    },
+    {
+        "page": 215,
+        "line": 25,
+        "start_char": 37,
+        "end_char": 62,
+        "removed_text": "это учебное приготовленье",
+        "type": "multiple_words"
+    },
+    {
+        "page": 215,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 7,
+        "removed_text": "в себе,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 216,
+        "line": 11,
+        "start_char": 0,
+        "end_char": 25,
+        "removed_text": "вдруг племянник подгадил.",
+        "type": "sentence"
+    },
+    {
+        "page": 217,
+        "line": 10,
+        "start_char": 0,
+        "end_char": 59,
+        "removed_text": "душ крестьян, именье в расстройстве, а управляющий – дурак.",
+        "type": "sentence"
+    },
+    {
+        "page": 217,
+        "line": 22,
+        "start_char": 27,
+        "end_char": 37,
+        "removed_text": "может быть",
+        "type": "multiple_words"
+    },
+    {
+        "page": 218,
+        "line": 20,
+        "start_char": 0,
+        "end_char": 69,
+        "removed_text": "непрестанно накоплявшиеся, исторгнулись наконец почти такими словами:",
+        "type": "sentence"
+    },
+    {
+        "page": 218,
+        "line": 39,
+        "start_char": 66,
+        "end_char": 70,
+        "removed_text": "тебя",
+        "type": "word"
+    },
+    {
+        "page": 219,
+        "line": 13,
+        "start_char": 60,
+        "end_char": 64,
+        "removed_text": "счет",
+        "type": "word"
+    },
+    {
+        "page": 219,
+        "line": 25,
+        "start_char": 8,
+        "end_char": 29,
+        "removed_text": "изрядно поизленились.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 219,
+        "line": 34,
+        "start_char": 0,
+        "end_char": 66,
+        "removed_text": "присутствовал и приказал выдать даже по чапорухе водки за усердные",
+        "type": "sentence"
+    },
+    {
+        "page": 220,
+        "line": 27,
+        "start_char": 50,
+        "end_char": 55,
+        "removed_text": "время",
+        "type": "word"
+    },
+    {
+        "page": 220,
+        "line": 28,
+        "start_char": 49,
+        "end_char": 52,
+        "removed_text": "кос",
+        "type": "word"
+    },
+    {
+        "page": 220,
+        "line": 39,
+        "start_char": 37,
+        "end_char": 39,
+        "removed_text": "он",
+        "type": "word"
+    },
+    {
+        "page": 221,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 21,
+        "removed_text": "докладами приказчика.",
+        "type": "sentence"
+    },
+    {
+        "page": 222,
+        "line": 6,
+        "start_char": 43,
+        "end_char": 55,
+        "removed_text": "образоваться",
+        "type": "word"
+    },
+    {
+        "page": 222,
+        "line": 10,
+        "start_char": 14,
+        "end_char": 21,
+        "removed_text": "подобно",
+        "type": "word"
+    },
+    {
+        "page": 222,
+        "line": 21,
+        "start_char": 51,
+        "end_char": 54,
+        "removed_text": "мог",
+        "type": "word"
+    },
+    {
+        "page": 223,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 29,
+        "removed_text": "несправедливости или жестоком",
+        "type": "multiple_words"
+    },
+    {
+        "page": 223,
+        "line": 16,
+        "start_char": 11,
+        "end_char": 15,
+        "removed_text": "умно",
+        "type": "word"
+    },
+    {
+        "page": 223,
+        "line": 39,
+        "start_char": 15,
+        "end_char": 20,
+        "removed_text": "ходил",
+        "type": "word"
+    },
+    {
+        "page": 224,
+        "line": 35,
+        "start_char": 0,
+        "end_char": 56,
+        "removed_text": "оставалась по целому дню посреди комнаты вместе с сором.",
+        "type": "sentence"
+    },
+    {
+        "page": 225,
+        "line": 20,
+        "start_char": 34,
+        "end_char": 47,
+        "removed_text": "необыкновенно",
+        "type": "word"
+    },
+    {
+        "page": 226,
+        "line": 28,
+        "start_char": 0,
+        "end_char": 9,
+        "removed_text": "Заговорил",
+        "type": "word"
+    },
+    {
+        "page": 227,
+        "line": 19,
+        "start_char": 10,
+        "end_char": 21,
+        "removed_text": "и скоро все",
+        "type": "multiple_words"
+    },
+    {
+        "page": 228,
+        "line": 22,
+        "start_char": 18,
+        "end_char": 36,
+        "removed_text": "пускал кудреватыми",
+        "type": "multiple_words"
+    },
+    {
+        "page": 229,
+        "line": 33,
+        "start_char": 14,
+        "end_char": 25,
+        "removed_text": "обыкновенно",
+        "type": "word"
+    },
+    {
+        "page": 231,
+        "line": 14,
+        "start_char": 14,
+        "end_char": 25,
+        "removed_text": "барин ездил",
+        "type": "multiple_words"
+    },
+    {
+        "page": 231,
+        "line": 29,
+        "start_char": 0,
+        "end_char": 20,
+        "removed_text": "Чичиков не смутился.",
+        "type": "sentence"
+    },
+    {
+        "page": 233,
+        "line": 35,
+        "start_char": 42,
+        "end_char": 51,
+        "removed_text": "чувствами",
+        "type": "word"
+    },
+    {
+        "page": 234,
+        "line": 3,
+        "start_char": 23,
+        "end_char": 36,
+        "removed_text": "конце которой",
+        "type": "multiple_words"
+    },
+    {
+        "page": 235,
+        "line": 12,
+        "start_char": 54,
+        "end_char": 63,
+        "removed_text": "почтеньем",
+        "type": "word"
+    },
+    {
+        "page": 236,
+        "line": 3,
+        "start_char": 37,
+        "end_char": 38,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 237,
+        "line": 20,
+        "start_char": 38,
+        "end_char": 50,
+        "removed_text": "это выходит,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 240,
+        "line": 32,
+        "start_char": 38,
+        "end_char": 43,
+        "removed_text": "рукой",
+        "type": "word"
+    },
+    {
+        "page": 240,
+        "line": 33,
+        "start_char": 31,
+        "end_char": 35,
+        "removed_text": "было",
+        "type": "word"
+    },
+    {
+        "page": 241,
+        "line": 36,
+        "start_char": 2,
+        "end_char": 6,
+        "removed_text": "Есть",
+        "type": "word"
+    },
+    {
+        "page": 242,
+        "line": 8,
+        "start_char": 18,
+        "end_char": 21,
+        "removed_text": "сам",
+        "type": "word"
+    },
+    {
+        "page": 242,
+        "line": 23,
+        "start_char": 30,
+        "end_char": 41,
+        "removed_text": "ни вертись,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 244,
+        "line": 11,
+        "start_char": 9,
+        "end_char": 11,
+        "removed_text": "ты",
+        "type": "word"
+    },
+    {
+        "page": 244,
+        "line": 15,
+        "start_char": 5,
+        "end_char": 10,
+        "removed_text": "Павел",
+        "type": "word"
+    },
+    {
+        "page": 244,
+        "line": 19,
+        "start_char": 49,
+        "end_char": 54,
+        "removed_text": "глядя",
+        "type": "word"
+    },
+    {
+        "page": 245,
+        "line": 14,
+        "start_char": 6,
+        "end_char": 7,
+        "removed_text": "в",
+        "type": "word"
+    },
+    {
+        "page": 245,
+        "line": 28,
+        "start_char": 37,
+        "end_char": 47,
+        "removed_text": "Деревья же",
+        "type": "multiple_words"
+    },
+    {
+        "page": 246,
+        "line": 6,
+        "start_char": 19,
+        "end_char": 28,
+        "removed_text": "полковник",
+        "type": "word"
+    },
+    {
+        "page": 246,
+        "line": 13,
+        "start_char": 0,
+        "end_char": 4,
+        "removed_text": "Фома",
+        "type": "word"
+    },
+    {
+        "page": 246,
+        "line": 21,
+        "start_char": 17,
+        "end_char": 27,
+        "removed_text": "приказавши",
+        "type": "word"
+    },
+    {
+        "page": 249,
+        "line": 35,
+        "start_char": 8,
+        "end_char": 13,
+        "removed_text": "после",
+        "type": "word"
+    },
+    {
+        "page": 251,
+        "line": 23,
+        "start_char": 0,
+        "end_char": 71,
+        "removed_text": "не то: в силу, в силу перетащились они на балкон и в силу поместились в",
+        "type": "sentence"
+    },
+    {
+        "page": 252,
+        "line": 15,
+        "start_char": 0,
+        "end_char": 5,
+        "removed_text": "можно",
+        "type": "word"
+    },
+    {
+        "page": 253,
+        "line": 5,
+        "start_char": 5,
+        "end_char": 7,
+        "removed_text": "бы",
+        "type": "word"
+    },
+    {
+        "page": 254,
+        "line": 10,
+        "start_char": 39,
+        "end_char": 43,
+        "removed_text": "один",
+        "type": "word"
+    },
+    {
+        "page": 256,
+        "line": 22,
+        "start_char": 7,
+        "end_char": 9,
+        "removed_text": "От",
+        "type": "word"
+    },
+    {
+        "page": 256,
+        "line": 23,
+        "start_char": 19,
+        "end_char": 22,
+        "removed_text": "для",
+        "type": "word"
+    },
+    {
+        "page": 256,
+        "line": 31,
+        "start_char": 29,
+        "end_char": 30,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 256,
+        "line": 33,
+        "start_char": 47,
+        "end_char": 49,
+        "removed_text": "Им",
+        "type": "word"
+    },
+    {
+        "page": 258,
+        "line": 19,
+        "start_char": 24,
+        "end_char": 30,
+        "removed_text": "сказал",
+        "type": "word"
+    },
+    {
+        "page": 259,
+        "line": 3,
+        "start_char": 0,
+        "end_char": 25,
+        "removed_text": "сколько по нужде другого.",
+        "type": "sentence"
+    },
+    {
+        "page": 261,
+        "line": 17,
+        "start_char": 15,
+        "end_char": 21,
+        "removed_text": "сказал",
+        "type": "word"
+    },
+    {
+        "page": 263,
+        "line": 12,
+        "start_char": 10,
+        "end_char": 12,
+        "removed_text": "те",
+        "type": "word"
+    },
+    {
+        "page": 264,
+        "line": 22,
+        "start_char": 10,
+        "end_char": 27,
+        "removed_text": "– сказал Чичиков.",
+        "type": "sentence"
+    },
+    {
+        "page": 265,
+        "line": 2,
+        "start_char": 9,
+        "end_char": 17,
+        "removed_text": "строений",
+        "type": "word"
+    },
+    {
+        "page": 265,
+        "line": 30,
+        "start_char": 48,
+        "end_char": 51,
+        "removed_text": "рук",
+        "type": "word"
+    },
+    {
+        "page": 266,
+        "line": 5,
+        "start_char": 50,
+        "end_char": 55,
+        "removed_text": "петлю",
+        "type": "word"
+    },
+    {
+        "page": 266,
+        "line": 34,
+        "start_char": 0,
+        "end_char": 73,
+        "removed_text": "мужик был у тебя богат, так тогда ты и сам будешь богат без фабрик, и без",
+        "type": "sentence"
+    },
+    {
+        "page": 266,
+        "line": 38,
+        "start_char": 47,
+        "end_char": 56,
+        "removed_text": "намерение",
+        "type": "word"
+    },
+    {
+        "page": 267,
+        "line": 2,
+        "start_char": 32,
+        "end_char": 35,
+        "removed_text": "так",
+        "type": "word"
+    },
+    {
+        "page": 267,
+        "line": 21,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "– Именье, за которое если бы он запросил и сорок тысяч, я б ему тут",
+        "type": "sentence"
+    },
+    {
+        "page": 268,
+        "line": 6,
+        "start_char": 37,
+        "end_char": 41,
+        "removed_text": "этом",
+        "type": "word"
+    },
+    {
+        "page": 269,
+        "line": 8,
+        "start_char": 43,
+        "end_char": 44,
+        "removed_text": "я",
+        "type": "word"
+    },
+    {
+        "page": 270,
+        "line": 27,
+        "start_char": 13,
+        "end_char": 32,
+        "removed_text": "произнес Чичиков. –",
+        "type": "multiple_words"
+    },
+    {
+        "page": 272,
+        "line": 19,
+        "start_char": 0,
+        "end_char": 57,
+        "removed_text": "обдумывал, как сделаться помещиком, подобным Костанжогло.",
+        "type": "sentence"
+    },
+    {
+        "page": 275,
+        "line": 14,
+        "start_char": 55,
+        "end_char": 66,
+        "removed_text": "спросил он.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 276,
+        "line": 3,
+        "start_char": 16,
+        "end_char": 21,
+        "removed_text": "между",
+        "type": "word"
+    },
+    {
+        "page": 276,
+        "line": 11,
+        "start_char": 10,
+        "end_char": 17,
+        "removed_text": "спросил",
+        "type": "word"
+    },
+    {
+        "page": 277,
+        "line": 24,
+        "start_char": 0,
+        "end_char": 66,
+        "removed_text": "жить не только не выучился, а еще как бы больше выучился искусству",
+        "type": "sentence"
+    },
+    {
+        "page": 278,
+        "line": 13,
+        "start_char": 42,
+        "end_char": 45,
+        "removed_text": "был",
+        "type": "word"
+    },
+    {
+        "page": 278,
+        "line": 39,
+        "start_char": 34,
+        "end_char": 38,
+        "removed_text": "было",
+        "type": "word"
+    },
+    {
+        "page": 280,
+        "line": 16,
+        "start_char": 37,
+        "end_char": 52,
+        "removed_text": "его натрет себе",
+        "type": "multiple_words"
+    },
+    {
+        "page": 281,
+        "line": 17,
+        "start_char": 45,
+        "end_char": 51,
+        "removed_text": "послал",
+        "type": "word"
+    },
+    {
+        "page": 281,
+        "line": 24,
+        "start_char": 0,
+        "end_char": 45,
+        "removed_text": "шестьдесят, хоть она и зовет его: «Эй, малый!",
+        "type": "sentence"
+    },
+    {
+        "page": 282,
+        "line": 22,
+        "start_char": 17,
+        "end_char": 24,
+        "removed_text": "поощрял",
+        "type": "word"
+    },
+    {
+        "page": 283,
+        "line": 29,
+        "start_char": 55,
+        "end_char": 63,
+        "removed_text": "улизнуть",
+        "type": "word"
+    },
+    {
+        "page": 283,
+        "line": 30,
+        "start_char": 0,
+        "end_char": 60,
+        "removed_text": "мест и не заплатить Костанжогле денег, взятых у него взаймы.",
+        "type": "sentence"
+    },
+    {
+        "page": 285,
+        "line": 1,
+        "start_char": 28,
+        "end_char": 45,
+        "removed_text": "был ростом пониже",
+        "type": "multiple_words"
+    },
+    {
+        "page": 285,
+        "line": 30,
+        "start_char": 27,
+        "end_char": 28,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 286,
+        "line": 29,
+        "start_char": 69,
+        "end_char": 72,
+        "removed_text": "так",
+        "type": "word"
+    },
+    {
+        "page": 286,
+        "line": 32,
+        "start_char": 60,
+        "end_char": 61,
+        "removed_text": "и",
+        "type": "word"
+    },
+    {
+        "page": 290,
+        "line": 9,
+        "start_char": 0,
+        "end_char": 21,
+        "removed_text": "он некогда приобретал",
+        "type": "multiple_words"
+    },
+    {
+        "page": 290,
+        "line": 10,
+        "start_char": 0,
+        "end_char": 56,
+        "removed_text": "действительно свойство сообщать нежность и белизну щекам",
+        "type": "sentence"
+    },
+    {
+        "page": 290,
+        "line": 11,
+        "start_char": 29,
+        "end_char": 38,
+        "removed_text": "когда он,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 290,
+        "line": 29,
+        "start_char": 54,
+        "end_char": 64,
+        "removed_text": "уничтожено",
+        "type": "word"
+    },
+    {
+        "page": 292,
+        "line": 7,
+        "start_char": 49,
+        "end_char": 58,
+        "removed_text": "попросить",
+        "type": "word"
+    },
+    {
+        "page": 292,
+        "line": 27,
+        "start_char": 30,
+        "end_char": 31,
+        "removed_text": "к",
+        "type": "word"
+    },
+    {
+        "page": 294,
+        "line": 18,
+        "start_char": 36,
+        "end_char": 49,
+        "removed_text": "в стол руках.",
+        "type": "multiple_words"
+    },
+    {
+        "page": 294,
+        "line": 23,
+        "start_char": 16,
+        "end_char": 18,
+        "removed_text": "на",
+        "type": "word"
+    },
+    {
+        "page": 294,
+        "line": 37,
+        "start_char": 29,
+        "end_char": 40,
+        "removed_text": "возможность",
+        "type": "word"
+    },
+    {
+        "page": 295,
+        "line": 37,
+        "start_char": 0,
+        "end_char": 46,
+        "removed_text": "– Афанасию Васильевичу наше нижайшее почтенье!",
+        "type": "sentence"
+    },
+    {
+        "page": 296,
+        "line": 19,
+        "start_char": 0,
+        "end_char": 67,
+        "removed_text": "– У меня просто голова кружится, – сказал Чичиков, – как подумаешь,",
+        "type": "sentence"
+    },
+    {
+        "page": 296,
+        "line": 24,
+        "start_char": 47,
+        "end_char": 61,
+        "removed_text": "хлеб мастерам,",
+        "type": "multiple_words"
+    },
+    {
+        "page": 296,
+        "line": 31,
+        "start_char": 47,
+        "end_char": 51,
+        "removed_text": "Если",
+        "type": "word"
+    },
+    {
+        "page": 296,
+        "line": 36,
+        "start_char": 56,
+        "end_char": 57,
+        "removed_text": "с",
+        "type": "word"
+    },
+    {
+        "page": 299,
+        "line": 25,
+        "start_char": 0,
+        "end_char": 64,
+        "removed_text": "вам – захотите получше угостить, да и покоритесь первому доброму",
+        "type": "sentence"
+    },
+    {
+        "page": 300,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 41,
+        "removed_text": "где терпят нужду и в каком состоянье все.",
+        "type": "sentence"
+    },
+    {
+        "page": 300,
+        "line": 38,
+        "start_char": 28,
+        "end_char": 44,
+        "removed_text": "ворам пожива. Вы",
+        "type": "multiple_words"
+    },
+    {
+        "page": 301,
+        "line": 21,
+        "start_char": 7,
+        "end_char": 17,
+        "removed_text": "бесполезна",
+        "type": "word"
+    },
+    {
+        "page": 302,
+        "line": 37,
+        "start_char": 20,
+        "end_char": 23,
+        "removed_text": "был",
+        "type": "word"
+    },
+    {
+        "page": 303,
+        "line": 31,
+        "start_char": 0,
+        "end_char": 5,
+        "removed_text": "дверь",
+        "type": "word"
+    },
+    {
+        "page": 306,
+        "line": 31,
+        "start_char": 42,
+        "end_char": 43,
+        "removed_text": "я",
+        "type": "word"
+    },
+    {
+        "page": 307,
+        "line": 17,
+        "start_char": 11,
+        "end_char": 20,
+        "removed_text": "добыванья",
+        "type": "word"
+    },
+    {
+        "page": 308,
+        "line": 16,
+        "start_char": 46,
+        "end_char": 53,
+        "removed_text": "детства",
+        "type": "word"
+    },
+    {
+        "page": 310,
+        "line": 22,
+        "start_char": 0,
+        "end_char": 11,
+        "removed_text": "несказанно.",
+        "type": "sentence"
+    },
+    {
+        "page": 310,
+        "line": 39,
+        "start_char": 2,
+        "end_char": 15,
+        "removed_text": "Ты мне будешь",
+        "type": "multiple_words"
+    },
+    {
+        "page": 311,
+        "line": 3,
+        "start_char": 16,
+        "end_char": 18,
+        "removed_text": "ни",
+        "type": "word"
+    },
+    {
+        "page": 312,
+        "line": 38,
+        "start_char": 0,
+        "end_char": 8,
+        "removed_text": "которого",
+        "type": "word"
+    },
+    {
+        "page": 314,
+        "line": 10,
+        "start_char": 0,
+        "end_char": 9,
+        "removed_text": "настоящий",
+        "type": "word"
+    },
+    {
+        "page": 314,
+        "line": 32,
+        "start_char": 14,
+        "end_char": 20,
+        "removed_text": "первые",
+        "type": "word"
+    },
+    {
+        "page": 315,
+        "line": 1,
+        "start_char": 35,
+        "end_char": 63,
+        "removed_text": "движенья благороднейшие, чем",
+        "type": "multiple_words"
+    },
+    {
+        "page": 315,
+        "line": 3,
+        "start_char": 49,
+        "end_char": 53,
+        "removed_text": "даже",
+        "type": "word"
+    },
+    {
+        "page": 315,
+        "line": 10,
+        "start_char": 0,
+        "end_char": 8,
+        "removed_text": "принесли",
+        "type": "word"
+    },
+    {
+        "page": 315,
+        "line": 23,
+        "start_char": 56,
+        "end_char": 59,
+        "removed_text": "вам",
+        "type": "word"
+    },
+    {
+        "page": 316,
+        "line": 1,
+        "start_char": 42,
+        "end_char": 44,
+        "removed_text": "то",
+        "type": "word"
+    },
+    {
+        "page": 316,
+        "line": 15,
+        "start_char": 11,
+        "end_char": 12,
+        "removed_text": "о",
+        "type": "word"
+    },
+    {
+        "page": 316,
+        "line": 21,
+        "start_char": 33,
+        "end_char": 37,
+        "removed_text": "хотя",
+        "type": "word"
+    },
+    {
+        "page": 317,
+        "line": 15,
+        "start_char": 61,
+        "end_char": 69,
+        "removed_text": "государь",
+        "type": "word"
+    },
+    {
+        "page": 317,
+        "line": 22,
+        "start_char": 43,
+        "end_char": 46,
+        "removed_text": "Все",
+        "type": "word"
+    },
+    {
+        "page": 318,
+        "line": 11,
+        "start_char": 0,
+        "end_char": 58,
+        "removed_text": "Знаю, что никакими средствами, никакими страхами, никакими",
+        "type": "sentence"
+    },
+    {
+        "page": 318,
+        "line": 14,
+        "start_char": 47,
+        "end_char": 57,
+        "removed_text": "не рождены",
+        "type": "multiple_words"
+    },
+    {
+        "page": 318,
+        "line": 36,
+        "start_char": 25,
+        "end_char": 31,
+        "removed_text": "другое",
+        "type": "word"
+    },
+    {
+        "page": 318,
+        "line": 39,
+        "start_char": 45,
+        "end_char": 50,
+        "removed_text": "силах",
+        "type": "word"
+    }
+]
